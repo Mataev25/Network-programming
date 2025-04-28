@@ -1,5 +1,5 @@
 # Server1
-##Synchronous TCP echo server
+## Synchronous TCP echo server
 
 Сервер написан в учебных целях: 
   1. изучить основы сетевого программирования;
